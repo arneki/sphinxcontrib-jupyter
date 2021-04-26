@@ -34,3 +34,7 @@ when :math:`x \in [0,1]`
     ax.fill(x, y, zorder=10)
     ax.grid(True, zorder=5)
     plt.show()
+
+.. image:: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=
+    :class: solution
+    :alt: a small transparent pixel
